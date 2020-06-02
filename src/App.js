@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import ContactCard from "./ContactCard";
 import Ttile from "./Title"
+import Footer from "./Footer"
 import './App.css';
 
 class App extends Component {
@@ -30,6 +31,7 @@ class App extends Component {
           workNum = "(212) 127-7554"
           email = "rosie@yahoo.com"
         />
+        <Footer />
       </>
     );
   }
