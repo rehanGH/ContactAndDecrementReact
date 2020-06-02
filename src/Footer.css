@@ -1,0 +1,9 @@
+#main-footer{
+    width: 100%;
+    background-color: black;
+    color: rgb(226,226,226);
+    display: flex;
+    justify-content: center;
+    align-self: flex-end;
+}
+
